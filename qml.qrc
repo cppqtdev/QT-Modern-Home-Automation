@@ -1,0 +1,119 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomePage.qml</file>
+        <file>Style.qml</file>
+        <file>assets/icons/fault.svg</file>
+        <file>assets/icons/faultindi.svg</file>
+        <file>assets/icons/sliderToolTip.svg</file>
+        <file>assets/others/Ellipse 44.png</file>
+        <file>assets/others/Ellipse 45.png</file>
+        <file>assets/others/Ellipse 46.png</file>
+        <file>assets/others/Ellipse 47.png</file>
+        <file>assets/others/Subtract.png</file>
+        <file>assets/others/Subtract.svg</file>
+        <file>assets/brasero.svg</file>
+        <file>assets/brave-browser.svg</file>
+        <file>assets/check-solid.svg</file>
+        <file>assets/Cover.png</file>
+        <file>assets/fan-solid.svg</file>
+        <file>assets/itunes.svg</file>
+        <file>assets/light1.png</file>
+        <file>assets/light2.png</file>
+        <file>assets/reload.svg</file>
+        <file>assets/spotify-client.svg</file>
+        <file>assets/system-run.svg</file>
+        <file>assets/wrench.svg</file>
+        <file>assets/youtube-to-mp3.svg</file>
+        <file>assets/youtube.svg</file>
+        <file>assets/🦆 icon _flash_.svg</file>
+        <file>Components/CCTVTile.qml</file>
+        <file>Components/CircularSlider.qml</file>
+        <file>Components/EffectButton.qml</file>
+        <file>Components/IconImage.qml</file>
+        <file>Components/IconLabel.qml</file>
+        <file>Components/LeftPane.qml</file>
+        <file>Components/LightingTile.qml</file>
+        <file>Components/MiddlePane.qml</file>
+        <file>Components/MiddlePaneWidget.qml</file>
+        <file>Components/OutlinedLabel.qml</file>
+        <file>Components/PrefsCircularProgressBar.qml</file>
+        <file>Components/PrefsLabel.qml</file>
+        <file>Components/PrefsLabelSelector.qml</file>
+        <file>Components/PrefsProgressBar.qml</file>
+        <file>Components/PrefsSlider.qml</file>
+        <file>Components/PrefsSwitch.qml</file>
+        <file>Components/PrefsTabButton.qml</file>
+        <file>Components/RightPane.qml</file>
+        <file>Components/RightPaneLightSwitchComponent.qml</file>
+        <file>Components/Tile.qml</file>
+        <file>Components/TimeShow.qml</file>
+        <file>Components/WizardStepper.qml</file>
+        <file>fonts/CodecPro-Italic.ttf</file>
+        <file>fonts/CodecPro-Regular.ttf</file>
+        <file>fonts/fontawesome.otf</file>
+        <file>fonts/Lato-Bold.ttf</file>
+        <file>fonts/Lato-Regular.ttf</file>
+        <file>RightDrawer.qml</file>
+        <file>RightSideDrawerDelegate.qml</file>
+        <file>assets/icons/speaker.jpg</file>
+        <file>assets/icons/Rectangle 11.png</file>
+        <file>assets/icons/Rectangle 11.svg</file>
+        <file>assets/icons/Rectangle 13.png</file>
+        <file>assets/icons/1.png</file>
+        <file>assets/icons/2.png</file>
+        <file>assets/icons/3.png</file>
+        <file>assets/icons/4.png</file>
+        <file>assets/icons/5.png</file>
+        <file>Components/RoundRectangle.qml</file>
+        <file>BottomDrawer.qml</file>
+        <file>Components/OutlinedButtonWithicon.qml</file>
+        <file>ShadowRectangle.qml</file>
+        <file>LabDelegate.qml</file>
+        <file>assets/SmartHome/Icon_armchair.svg</file>
+        <file>assets/SmartHome/Icon_BBQ.svg</file>
+        <file>assets/SmartHome/Icon_closet.svg</file>
+        <file>assets/SmartHome/Icon_coffee maker.svg</file>
+        <file>assets/SmartHome/Icon_comfy sofa.svg</file>
+        <file>assets/SmartHome/Icon_dishwater.svg</file>
+        <file>assets/SmartHome/Icon_electric stove.svg</file>
+        <file>assets/SmartHome/Icon_electricity.svg</file>
+        <file>assets/SmartHome/Icon_microwave.svg</file>
+        <file>assets/SmartHome/Icon_mirror closet.svg</file>
+        <file>assets/SmartHome/Icon_refrigerator.svg</file>
+        <file>assets/SmartHome/Icon_router.svg</file>
+        <file>assets/SmartHome/Icon_sockets.svg</file>
+        <file>assets/SmartHome/Icon_sofa.svg</file>
+        <file>assets/SmartHome/Icon_stairs.svg</file>
+        <file>assets/SmartHome/Icon_stove.svg</file>
+        <file>assets/SmartHome/Icon_table.svg</file>
+        <file>assets/SmartHome/Icon_television.svg</file>
+        <file>assets/SmartHome/Icon_washing machine.svg</file>
+        <file>assets/SmartHome/Icon_water.svg</file>
+        <file>assets/new icons/1786492-01 1.png</file>
+        <file>assets/new icons/AC.png</file>
+        <file>assets/new icons/AC.svg</file>
+        <file>assets/new icons/AMZ030101-main 1.png</file>
+        <file>assets/new icons/image 1.png</file>
+        <file>assets/new icons/Lights.svg</file>
+        <file>assets/new icons/pngegg 2.svg</file>
+        <file>assets/new icons/pngwing 1.svg</file>
+        <file>assets/new icons/sensor.png</file>
+        <file>Components/ImageButton.qml</file>
+        <file>assets/icons/airdrop.svg</file>
+        <file>assets/icons/drop.svg</file>
+        <file>assets/icons/electricity.svg</file>
+        <file>assets/icons/flash.svg</file>
+        <file>assets/icons/keyboard-open.svg</file>
+        <file>assets/icons/keyboard.svg</file>
+        <file>assets/icons/monitor.svg</file>
+        <file>assets/icons/moon.svg</file>
+        <file>assets/icons/speaker.svg</file>
+        <file>assets/icons/sun 2.svg</file>
+        <file>assets/icons/sun.svg</file>
+        <file>assets/icons/wind.svg</file>
+        <file>Components/CustumPrefsLabelSelector.qml</file>
+        <file>Components/DevicesTile.qml</file>
+        <file>assets/Rectangle 2.png</file>
+    </qresource>
+</RCC>
