@@ -6,4 +6,4 @@
 ![Home Screen 3 ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen-3.png)
 
 # Youtube Video 
-### Link : ![Home Automation Youtube Video ](https://www.youtube.com/watch?v=CAEyq1-oNPI&t=12s)
+### Link : [Home Automation Youtube Video ](https://www.youtube.com/watch?v=CAEyq1-oNPI&t=12s)
